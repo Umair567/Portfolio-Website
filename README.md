@@ -1,5 +1,5 @@
 <h2 align="center">
-  Rahul Jha | Portfolio Website<br/>
+  Umair baig | Portfolio Website<br/>
 
 </h2>
 <div align="center">
