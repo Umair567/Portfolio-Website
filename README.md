@@ -1,6 +1,6 @@
 <h2 align="center">
   Rahul Jha | Portfolio Website<br/>
-  <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a>
+
 </h2>
 <div align="center">
  
