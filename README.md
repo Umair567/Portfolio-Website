@@ -15,7 +15,7 @@
 
 </div>
 
-You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Rahuljha4171](https://github.com/rahuljha4171/Portfolio-Website). Thanks in Advance😍!
+You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Umair baig](https://github.com/rahuljha4171/Portfolio-Website). Thanks in Advance😍!
 
 ## Built With
 
